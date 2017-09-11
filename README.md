@@ -1,4 +1,2 @@
 # timestamp-service
-test for buildStep
-89
-123
+test for run commands
