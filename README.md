@@ -5,3 +5,4 @@ test get output
 789
 123
 456
+789
